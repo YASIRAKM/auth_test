@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717190502764",
+    "project_id": "authtestapp-d4730",
+    "storage_bucket": "authtestapp-d4730.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717190502764:android:687176cb0d4aebaaeefb49",
+        "android_client_info": {
+          "package_name": "com.example.auth_flow_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717190502764-uellld1fm932vm75foa69470q0cte3mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEgkjIVlcWZKQT_7v0rs9QUcvZzvYFu5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717190502764-uellld1fm932vm75foa69470q0cte3mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
